@@ -5,3 +5,14 @@ h1 {
   height:300px;
   width:300px;
 }
+body{
+  background-color: lightgreen;
+  margin: 25px 50px 50px 100px;
+}
+.boxed {
+  border: 3px solid grey ;
+  text-align: center;
+}
+.italic{
+  font-style:italic;
+}
