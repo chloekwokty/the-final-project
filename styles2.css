@@ -3,7 +3,21 @@ h1 {
 }
 
 
+body {
+   background-color: #FEDCD2;
+}
 
+
+div.col-md-2
+{
+   background-color: #white;
+}
+
+
+div#carousel-example-generic
+{
+    margin:auto;
+}
 
 #carousel {
 

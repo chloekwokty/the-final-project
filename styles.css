@@ -7,7 +7,7 @@ h1 {
 }
 body{
    background-image: linear-gradient(lightblue, lightgreen);
-  margin: 25px 50px 50px 100px;
+
 }
 .boxed {
   border: 3px solid grey ;
@@ -23,7 +23,7 @@ body{
  font-weight:bold;
 }
 .smtitle{
- font-size: 45px;
+ font-size: 30px;
  font-style:italic;
  font-weight:bold;
 }
@@ -49,4 +49,15 @@ body{
 .introduction{
   font-size:16px;
   font-style:italic;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
