@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  font-size: 40;
 }
 .image2 {
   height:300px;
@@ -23,7 +24,7 @@ body{
  font-weight:bold;
 }
 .smtitle{
- font-size: 30px;
+ font-size: 23px;
  font-style:italic;
  font-weight:bold;
 }
@@ -35,8 +36,7 @@ body{
 }
 .recipetitle{
   font-style:italic;
-  font-weight:bold;
-  font-size: 28px;
+  font-size: 20px;
 }
 .list{
   font-size: 16px;
@@ -63,4 +63,13 @@ body{
 }
 .row{
   margin-left: 0;
+}
+.dietbg{
+  background-color: lightyellow;
+}
+.recipebg{
+  background-color: beige;
+}
+.descriptioncenter{
+  text-align: center;
 }
