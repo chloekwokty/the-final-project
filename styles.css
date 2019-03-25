@@ -9,6 +9,9 @@ body{
    background-image: linear-gradient(lightblue, lightgreen);
    width: auto;
    height: auto;
+   margin-left: 20px;
+   margin-bottom: 20px;
+   margin-top: 20px;
 
 }
 .boxed {
@@ -28,7 +31,7 @@ body{
  font-weight:bold;
 }
 .smtitle{
- font-size: 20px;
+ font-size: 16px;
  font-style:italic;
  font-weight:bold;
 }
@@ -36,12 +39,11 @@ body{
   font-style:italic;
 }
 .description{
-  font-size: 20px;
+  font-size: 12px;
 }
 .recipetitle{
   font-style:italic;
-  font-weight:bold;
-  font-size: 28px;
+  font-size: 15px;
 }
 .list{
   font-size: 16px;
@@ -76,13 +78,14 @@ body{
   font-size: 30px
 }
 
-.row-one{
+.row-one h1{
   text-align: center;
 }
 
-.descriptioncenter {
-text-align:center;
-}
+
+
+
+
 
 
 /*For Recipes*/

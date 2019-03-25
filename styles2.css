@@ -13,8 +13,24 @@ div.col-md-2
    background-color: #white;
 }
 
+.col-md-10 {
+  text-align: center;
+}
+
+
+
 
 div#carousel-example-generic
+{
+    margin:auto;
+}
+
+div#carousel-example-two
+{
+    margin:auto;
+}
+
+div#carousel-example-three
 {
     margin:auto;
 }
