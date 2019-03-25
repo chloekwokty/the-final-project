@@ -7,6 +7,9 @@ h1 {
 }
 body{
    background-image: linear-gradient(lightblue, lightgreen);
+   background-size: auto;
+   width: auto;
+   height: auto;
 
 }
 .boxed {
@@ -72,4 +75,17 @@ body{
   text-align: center;
   line-height: 40px;
   font-size: 30px
+}
+
+.row-one{
+  text-align: center;
+}
+
+.row-one p {
+text-align:left;}
+
+
+/*For Recipes*/
+.descriptioncenter{
+  margin-left: 100px;
 }
